@@ -1,0 +1,7 @@
+NAME="Fishing OS"
+PRETTY_NAME="Fishing OS (Arch-based)"
+ID=fishing
+ID_LIKE=arch
+HOME_URL="https://fishing-os.local"
+SUPPORT_URL="https://fishing-os.local/support"
+BUG_REPORT_URL="https://fishing-os.local/issues"
