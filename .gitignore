@@ -1,10 +1,7 @@
-# Abaikan folder build & output
 work/
 out/
 
-# Abaikan file ISO jika ada
 *.iso
 
-# Abaikan cache / log
 *.log
 *.cache
