@@ -1,0 +1,6 @@
+NAME="Fishing OS"
+PRETTY_NAME="Fishing OS Linux"
+ID=fishingos
+ID_LIKE=arch
+BUILD_ID=2026.05
+HOME_URL="https://github.com/Bangkah/Fishing-OS"

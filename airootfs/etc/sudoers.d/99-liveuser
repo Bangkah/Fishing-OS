@@ -1,0 +1,2 @@
+# Mengizinkan liveuser menjalankan installer tanpa password
+liveuser ALL=(ALL) NOPASSWD: /usr/bin/calamares
