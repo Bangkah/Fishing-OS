@@ -1,0 +1,5 @@
+work_dir/
+out_dir/
+*.iso
+*.sfs
+*.tar.gz
